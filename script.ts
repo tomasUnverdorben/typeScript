@@ -88,7 +88,7 @@ obsahovat vechny vyse uvedené promenné.
 Pouzijte pro zápis co nejednodussí zpúsob
 (nemusite specifikovat, jaka promenna je jaky typ)
 Vypiste vechny vlastnosti do konzole|
-
+ 
 
 const house = {
     windows : 4,
