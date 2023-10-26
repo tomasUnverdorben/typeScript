@@ -92,7 +92,7 @@ Vypiste vechny vlastnosti do konzole|
 
 const house = {
     windows : 4,
-    doors : 1,
+    doors : 1, 
     color : "bílá",
     height : 50,
     isNew : true,
