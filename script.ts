@@ -96,7 +96,7 @@ const house = {
     color : "bílá",
     height : 50,
     isNew : true,
-    garage : true
+    garage : true 
 }
 console.log(house.windows, house.doors, house.color, house.height, house.isNew, house.garage)
 */
